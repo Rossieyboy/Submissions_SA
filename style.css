@@ -1,6 +1,4 @@
-/* ======= Custom Bootstrap-Like Styles ======= */
 
-/* General Reset */
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +19,7 @@ body {
     padding: 20px;
 }
 
-/* Typography */
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
     margin-bottom: 15px;
@@ -32,7 +30,7 @@ p {
     margin-bottom: 10px;
 }
 
-/* Buttons */
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -54,7 +52,6 @@ p {
     background-color: #0056b3;
 }
 
-/* Forms */
 .form-group {
     margin-bottom: 15px;
 }
@@ -80,7 +77,6 @@ textarea:focus {
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
 }
 
-/* Cards */
 .card {
     background: white;
     border-radius: 10px;
@@ -89,7 +85,7 @@ textarea:focus {
     margin-bottom: 20px;
 }
 
-/* Grid System */
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -107,7 +103,7 @@ textarea:focus {
     }
 }
 
-/* Footer */
+
 .footer {
     text-align: center;
     padding: 15px;
